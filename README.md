@@ -26,5 +26,3 @@ The pipeline follows Bronze → Silver → Gold stages and includes a small demo
 - The dataset used is synthetic and included in `data/retail_sales_dataset.csv`.
 - You can push parquet outputs to a data lake or migrate the pipeline to Databricks with minimal changes.
 
-## Author
-Dedeepya Chowdary
